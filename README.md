@@ -1,7 +1,30 @@
-## Hi there, I am Likhon 👋
+<img src="https://raw.githubusercontent.com/lifeoflikhon/contents/master/aits-website/mehedi-hasan.jpg" width="100" height="100">  
 
-- 🔭 I’m currently working on Web Application with React.
-- 🌱 I’m currently learning Angular.
+## Hi there, it's me, Likhon 👋
+
+#### Quick Look
+The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior software engineer who lives in Dhaka, Bangladesh 🇧🇩. Now he is working on a local company called AITS Idea Ltd. His responsibility is making the products of AITS Idea Ltd. more beautiful, secure, and reliable. He is currently using Angular to developing the fron-end.
+
+#### Contact With Him
+
+#### Career Objective
+
+#### Tools He Use
+
+#### Professional Experiences
+
+#### Feature Projects
+
+#### Feature Blogs
+
+#### Educational Background
+
+#### Likhon and Opensource
+
+[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lifeoflikhon&show_icons=true)](https://github.com/lifeoflikhon/github-readme-stats)
+
+
+
 - 👯 I’m looking to collaborate on any open source project built with React-Native/React.
 - 🤔 I’m looking for help with understanding Angular well.
 - 💬 Ask me about my work, project, interest.
@@ -19,7 +42,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lifeoflikhon&show_icons=true)](https://github.com/lifeoflikhon/github-readme-stats)
+
 
 
 
