@@ -7,6 +7,9 @@ The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior softw
 
 #### Contact With Him
 
+- 📞 (+880) 1624 350761
+- 💌 mehedi.hasansjs@gmail.com
+
 #### Career Objective
 
 #### Tools He Use
@@ -23,6 +26,12 @@ The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior softw
 
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lifeoflikhon&show_icons=true)](https://github.com/lifeoflikhon/github-readme-stats)
 
+#### Follow Him
+
+- Facebook
+- Twitter
+- Instagram
+- Dev.to
 
 
 - 👯 I’m looking to collaborate on any open source project built with React-Native/React.
