@@ -26,11 +26,20 @@ The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior softw
 
 #### Professional Experiences
 
+- **AITS Idea Ltd.** - Junior Software Engineer (June 2020 - Present)
+- **DIU CPC** - President and Instructor (August 2019 to Present)
+
 #### Feature Projects
+1. App Presentation : [Live](https://lifeoflikhon.github.io/app-presentation) - [Source Code](https://github.com/lifeoflikhon/app-presentation)
+2. AITS Website : [Live](https://aitsidea.com)
 
 #### Feature Blogs
 
+Comming soon...
+
 #### Educational Background
+
+- B.Sc in CSE - **Dhaka International University** | 2017-2020
 
 #### Likhon and Opensource
 
@@ -38,7 +47,4 @@ The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior softw
 
 #### Follow Him
 
-- Facebook
-- Twitter
-- Instagram
-- Dev.to
+[Facebook](https//fb.com/lifeoflikhon) [Twitter](https://twitter.com/lifeoflikhon) [Instagram](https://instagram.com/lifeoflikhon)
