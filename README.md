@@ -47,4 +47,4 @@ Comming soon...
 
 #### Follow Him
 
-[Facebook](https//fb.com/lifeoflikhon) [Twitter](https://twitter.com/lifeoflikhon) [Instagram](https://instagram.com/lifeoflikhon)
+[Facebook](https://fb.com/lifeoflikhon) [Twitter](https://twitter.com/lifeoflikhon) [Instagram](https://instagram.com/lifeoflikhon)
