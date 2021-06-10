@@ -11,12 +11,6 @@ The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior softw
 - **AITS Idea Ltd.** - Junior Software Engineer (June 2020 - Present)
 - **DIU CPC** - President and Instructor (August 2019 to Present)
 
-#### Feature Projects
-[COMING SOON...]
-
-#### Feature Blogs
-Comming soon...
-
 #### Educational Background
 - B.Sc in CSE - **Dhaka International University** | 2017-2020
 
