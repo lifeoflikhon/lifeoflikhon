@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/lifeoflikhon/contents/master/aits-website/mehedi-hasan.jpg" width="100" height="100">  
-
 ## Hi there, it's me, Likhon 👋
 
 #### Quick Look
