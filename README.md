@@ -1,5 +1,7 @@
 ## Hi there, it's me, Likhon 👋
 
+![](https://komarev.com/ghpvc/?username=lifeoflikhon)
+
 #### Quick Look
 The profile your are visiting belongs to Mehedi Hasan Likhon. He is junior software engineer who lives in Dhaka, Bangladesh 🇧🇩. Now he is working on a local company called AITS Idea Ltd. His responsibility is making the products of AITS Idea Ltd. more beautiful, secure, and reliable. He is currently using Angular to developing the fron-end.
 
